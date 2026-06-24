@@ -119,5 +119,3 @@ object ThemeManager {
         TextSecondary   = p.textSecondary
     }
 }
-EOF
-echo "AppTheme.kt created ✅"
